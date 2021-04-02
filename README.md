@@ -34,3 +34,17 @@ Below is the mock-up of the given HTML and CSS files
 
 Below is the mock-up of the refactored HTML and CSS files
 ![Refactored Mock-Up](./Screenshot.jpeg)
+
+### Link to Live Page
+https://ortizalex.github.io/AO-Homework01-CodeRefactor/
+
+### Refactoring
+*HTML
+  *Correctly indented all HTML code
+  *Added meta viewport element to HTML for accessibility
+  *Changed HTML tags to semantic HTML tags
+  *Darkened side content for accessibilty
+*CSS
+  *Consolidated all similar CSS code under same class name
+  *Commented each CSS element
+  *Changed order of CSS elements
