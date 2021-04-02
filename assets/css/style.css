@@ -10,6 +10,18 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Customize Hyperlinks */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*Base paragraph text size */
+p {
+    font-size: 16px;
+    
+}
+
 /*Header size and base color and text*/
 .header {
     padding: 20px;
@@ -47,18 +59,6 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-/*Customize Hyperlinks */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/*Base text size */
-p {
-    font-size: 16px;
-    
 }
 
 /*Site image*/
