@@ -39,12 +39,12 @@ Below is the mock-up of the refactored HTML and CSS files
 https://ortizalex.github.io/AO-Homework01-CodeRefactor/
 
 ### Refactoring
-*HTML
-  *Correctly indented all HTML code
-  *Added meta viewport element to HTML for accessibility
-  *Changed HTML tags to semantic HTML tags
-  *Darkened side content for accessibilty
-*CSS
-  *Consolidated all similar CSS code under same class name
-  *Commented each CSS element
-  *Changed order of CSS elements
++ HTML
+  + Correctly indented all HTML code
+  + Added meta viewport element to HTML for accessibility
+  + Changed HTML tags to semantic HTML tags
+  + Darkened side content for accessibilty
++ CSS
+  + Consolidated all similar CSS code under same class name
+  + Commented each CSS element
+  + Changed order of CSS elements
