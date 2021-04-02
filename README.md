@@ -30,6 +30,7 @@ THEN I find a concise, descriptive title
 
 ### Given Mock-Up vs New Refactored Mock-Up
 Below is the mock-up of the given HTML and CSS files
-![Given Mock-Up](./AO-Homework01-CodeRefactor\assets\01-html-css-git-homework-demo.png)
+![Given Mock-Up](./assets/01-html-css-git-homework-demo.png)
+
 Below is the mock-up of the refactored HTML and CSS files
-![Refactored Mock-Up](./AO-Homework01-CodeRefactor\Screenshot.jpeg)
+![Refactored Mock-Up](./Screenshot.jpeg)
